@@ -1,2 +1,2 @@
 # TileVania
-Udemy Quiz Game Course Project 4
+Udemy Platformer Game Course Project 4
